@@ -44,12 +44,7 @@ Sempre desenvolvendo novas ideias e aprendendo na prática. Em breve, mais proje
   <a href="https://github.com/davidsribe-devinprogress">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <!-- Adicione aqui seu LinkedIn e outros contatos. -->
-</p>
-
----
-
-<p align="center">
-  <strong>Aprender • Construir • Evoluir</strong><br/>
-  🦦 Feito com curiosidade por suricatoNauta.
+  <a href="https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B1GxY9qg0Q5mJEs0e9WDKDQ%3D%3D">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
