@@ -1,50 +1,53 @@
-#suricatoNauta
+# David S. Ribeiro
 
-### David S. Ribeiro · Desenvolvedor em formação 🚀
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Aprendendo+e+construindo;Explorando+novas+tecnologias;Transformando+ideias+em+c%C3%B3digo" alt="Animação de texto"/>
-</p>
-
-<p align="center">
-  <em>Curiosidade de um suricato, visão de um astronauta.</em> 🌌
-</p>
+**Desenvolvedor em Formação | suricatoNauta**
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre
 
-Estudo desenvolvimento de software de forma autônoma, explorando tecnologias e criando projetos para transformar ideias em soluções reais.
+Atuo no estudo e desenvolvimento autônomo de software sob o conceito **suricatoNauta** — unindo a curiosidade investigativa na análise de problemas com a visão ampla e estratégica necessária para a construção de soluções em tecnologia. 
 
-- 💻 Interesse em desenvolvimento web e software.
-- 🤖 Explorando inteligência artificial e automação.
-- 🌐 Curioso por redes, tecnologia e inovação.
-- 🎮 Gamer nas horas vagas.
+Foco o meu aprendizado em desenvolvimento web, automação de processos e integração de sistemas, buscando aplicar conceitos teóricos na construção de projetos práticos e funcionais.
 
-## 🛠️ Tecnologias e ferramentas
+* **Áreas de interesse:** Desenvolvimento Web Full Stack, Automação de Processos e Inteligência Artificial.
+* **Abordagem:** Resolução analítica de problemas, boas práticas de código e arquitetura de sistemas.
+
+---
+
+## Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode,n8n&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Python, Git, GitHub, VS Code e n8n"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode,n8n&theme=dark" alt="Linguagens e Ferramentas"/>
 </p>
 
-## 📊 GitHub
+* **Linguagens e Frameworks:** HTML5, CSS3, JavaScript, TypeScript, React, Node.js, Python.
+* **Ferramentas e Automação:** Git, GitHub, VS Code, n8n.
+
+---
+
+## Estatísticas do GitHub
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=davidsribe-devinprogress&show_icons=true&theme=transparent&hide_border=true&title_color=f97316&icon_color=f97316&locale=pt-br" alt="Estatísticas do GitHub"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsribe-devinprogress&layout=compact&theme=transparent&hide_border=true&title_color=f97316&locale=pt-br" alt="Linguagens mais utilizadas"/>
 </p>
 
-## 🚀 Projetos
+---
 
-Sempre desenvolvendo novas ideias e aprendendo na prática. Em breve, mais projetos por aqui!
+## Projetos
 
-## 🤝 Conecte-se comigo
+Repositórios e aplicações em desenvolvimento ativo focados em consolidar conhecimentos em desenvolvimento web e automação.
+
+---
+
+## Contato
 
 <p align="center">
   <a href="https://github.com/davidsribe-devinprogress">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B1GxY9qg0Q5mJEs0e9WDKDQ%3D%3D">
+  <a href="https://www.linkedin.com/in/davidsribeiro/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
