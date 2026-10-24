@@ -1,4 +1,4 @@
-# 🦦 suricatoNauta
+#suricatoNauta
 
 ### David S. Ribeiro · Desenvolvedor em formação 🚀
 
