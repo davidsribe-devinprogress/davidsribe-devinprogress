@@ -6,7 +6,7 @@
 
 ## Sobre
 
-Atuo no estudo e desenvolvimento autônomo de software sob o conceito **suricatoNauta** — unindo a curiosidade investigativa na análise de problemas com a visão ampla e estratégica necessária para a construção de soluções em tecnologia. 
+Atuo no estudo e desenvolvimento autônomo de software sob — unindo a curiosidade investigativa na análise de problemas com a visão ampla e estratégica necessária para a construção de soluções em tecnologia. 
 
 Foco o meu aprendizado em desenvolvimento web, automação de processos e integração de sistemas, buscando aplicar conceitos teóricos na construção de projetos práticos e funcionais.
 
