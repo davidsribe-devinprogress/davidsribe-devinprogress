@@ -1,6 +1,6 @@
 # David S. Ribeiro
 
-**Desenvolvedor em Formação | suricatoNauta**
+**Desenvolvedor em Formação**
 
 ---
 
